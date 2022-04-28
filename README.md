@@ -14,3 +14,4 @@ Script approval location: `http://<jenkins_host>:<port>/scriptApproval/`
 method hudson.model.AbstractCIBase getNodes
 staticMethod jenkins.model.Jenkins getInstance
 ```
+*start
